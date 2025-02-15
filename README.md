@@ -1,5 +1,7 @@
 # Analytics Dashboard 🚀📊
 
+<img src="https://github.com/user-attachments/assets/c1c208f1-dbda-414b-a396-320f519e1e6d" height=400 />
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-4B8BBE.svg)](https://www.python.org/downloads/)
 [![Flask](https://img.shields.io/badge/Flask-2.0-4CAF50.svg)](https://flask.palletsprojects.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://reactjs.org/)
