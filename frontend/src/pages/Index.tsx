@@ -40,7 +40,7 @@ const Index = () => {
               variant="ghost"
               size="icon"
               className="rounded-full"
-              onClick={() => window.open('https://github.com/JoshMann15', '_blank')}
+              onClick={() => window.open('https://github.com/JoshMann15/AnalyticsDashboard', '_blank')}
               title="View on GitHub"
             >
               <Github className="h-5 w-5" />
